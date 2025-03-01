@@ -6,19 +6,9 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning React<br><br>📫 How to reach me lukaszmecala@gmail.com</p>
+<p align="center">🌱 I’m currently learning React<br><br>📫 How to reach me lukaszmecala@gmail.com<br><br>💼 Check out my portfolio:<a href="https://mecala.dev/">mecala.dev</a></p>
 
 ###
-
-<h4 align="right">Portfolio Wordpress pages:</h4>
-
-###
-
-<p align="right">Medsal - https://medsal.pl/</p>
-
-###
-
-<p align="right">Geotras Malbork - https://www.geotrasmalbork.pl/</p>
 
 ###
 
