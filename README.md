@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">Junior Frontend with experience in WordPress, HTML, CSS and JavaScript. I create responsive websites, newsletters and simple graphics.</p>
+<p align="center">Junior Frontend with experience in WordPress, React, Next.js.</p>
 
 ###
 
-<p align="center">🌱 I’m currently learning React<br><br>📫 How to reach me lukaszmecala@gmail.com<br><br>💼 Check out my portfolio:<a href="https://mecala.dev/">mecala.dev</a></p>
+<p align="center">🌱 I’m currently learning Next.js & React Native<br><br>📫 How to reach me lukaszmecala@gmail.com<br><br>💼 Check out my portfolio:<a href="https://mecala.dev/">mecala.dev</a></p>
 
 ###
 
